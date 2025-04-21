@@ -1,6 +1,15 @@
-- 👋 Hi, 我是 @CLRE-20
-- 我是台灣的高中生，熱愛程式設計，對軟體開發充滿熱忱。我相信科技的力量可以改變世界，因此不斷學習和提升自己的專業技能。除了編寫程式碼，我也有架設和管理 Minecraft 伺服器的經驗，曾架設過 "Minecraft 11862 伺服器"，目前正在管理 "Minecraft OOEST 伺服器"。
-<!---
-CLRE-20/CLRE-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# CLRE-20
+---
+## 關於我
+我是來自台灣的高中生，熱愛程式設計，並以軟體開發為興趣和目標。我相信科技的力量能夠改變世界，因此持續學習和提升自己的專業技能，目標將熱忱與專業結合，創造具價值的應用程式與平台，為人們的生活提供便利，實現自己對科技的追求與夢想。
+---
+## 程式設計與開發
+我擅長使用Python、JavaScript、Java、HTML和CSS進行程式設計，專注於後端開發和使用者介面設計。我喜歡解決技術挑戰，並結合創意以開發高效能的工具。此外，我探索AI技術、學習模型微調和API整合，以追求更多創新的應用。
+---
+## Minecraft
+minecraft伺服器架設，主要是Bedrock版。製作簡易插件，以提升客製化功能的遊戲體驗。紅石開發是我的熱情所在，透過邏輯設計，構建自動化系統和機關。我的目標是將技術與創意結合，為玩家提供高品質的遊玩體驗。
+---
+## Network
+我熟悉網路架構相關技術，包括DNS設置、端口轉發與專屬電子郵件。同時我深入研究Cloudflare的功能，透過其強大的工具實現內網穿透、優化訪問路徑及可靠的Access驗證系統，數據安全與使用者權限管理。我還使用Cloudflare Workers，探索邊緣計算來提升網絡效能，實現彈性擴展和穩定的應用運行環境。各種技術的整合是我持續追求的方向。
+---
+[Email]() [my website](https://clre20.mcooest.dpdns.org)
