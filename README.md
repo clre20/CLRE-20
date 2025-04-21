@@ -12,4 +12,4 @@ minecraft伺服器架設，主要是Bedrock版。製作簡易插件，以提升�
 ## Network
 我熟悉網路架構相關技術，包括DNS設置、端口轉發與專屬電子郵件。同時我深入研究Cloudflare的功能，透過其強大的工具實現內網穿透、優化訪問路徑及可靠的Access驗證系統，數據安全與使用者權限管理。我還使用Cloudflare Workers，探索邊緣計算來提升網絡效能，實現彈性擴展和穩定的應用運行環境。各種技術的整合是我持續追求的方向。
 ---
-[Email]() [my website](https://clre20.mcooest.dpdns.org)
+[Email](clre20@mcooest.dpdns.org) ｜ [my website](https://clre20.mcooest.dpdns.org)
